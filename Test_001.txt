@@ -1,1 +1,2 @@
 print ("hile!");
+prints ("%d". 10);
